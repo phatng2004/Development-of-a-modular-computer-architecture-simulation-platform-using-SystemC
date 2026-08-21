@@ -15,11 +15,11 @@ Project Structure
 
 text
 .
-├── CMakeLists.txt      # Build configuration
-├── main.cpp            # Application entry point & simulation run
-├── include/            # Header files (.h / .hpp)
-├── src/                # Implementation files (.cpp)
-└── doc/                # Architecture diagrams and specifications
+CMakeLists.txt      # Build configuration
+main.cpp            # Application entry point & simulation run
+include/            # Header files (.h / .hpp)
+src/                # Implementation files (.cpp)
+doc/                # Architecture diagrams and specifications
 
 Build & Run Instructions
 - Prerequisites
